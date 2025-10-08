@@ -26,5 +26,5 @@ I'm a developer and student passionate about the intersection of **Web Developme
 
 ### 📫 How to reach me:
 
-- **LinkedIn:** [Add Your LinkedIn Profile URL Here](https://www.linkedin.com/in/sanjayKundakar/)
-- **Email:** [your.email@example.com](mailto:sanjaykundakar16@gmail.com)
+- **LinkedIn:** [Sanjay T](https://www.linkedin.com/in/sanjayKundakar/)
+- **Email:** [sanjaykundakar16@gmail.com](mailto:sanjaykundakar16@gmail.com)
