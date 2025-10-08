@@ -1,34 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Web & Machine Learning Developer focused on building helpful applications and effective teams.</title></title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin-top: 50px;
-        }
-        input, button {
-            font-size: 16px;
-            padding: 10px;
-            margin: 10px;
-        }
-    </style>
-</head>
-<body>
-    <h1>Sanjay </h1>
-    <input type="text" id="nameInput" placeholder="Your Name">
-    <button onclick="displayMessage()">Submit</button>
-    <p id="message"></p>
+# Hi, I'm Sanjay 👋
 
-    <script>
-        function displayMessage() {
-            var name = document.getElementById('nameInput').value;
-            var message = `Hello ${name}, don't waste your time by always watching your phone. You need a mental hospital, can you join?`;
-            document.getElementById('message').textContent = message;
-        }
-    </script>
-</body>
-</html>
+I'm a developer and student passionate about the intersection of **Web Development** and **Machine Learning**. My primary focus is on continuously expanding my technical skills while also learning the principles of effective **team management**. I am driven by the goal of building applications that are genuinely **helpful to people** and solve real-world problems.
+
+---
+
+### 🛠️ Technologies & Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-ML-green?style=for-the-badge&logo=python)
+![Dart](https://img.shields.io/badge/Dart-Flutter-blue?style=for-the-badge&logo=dart)
+![Git](https://img.shields.io/badge/Git-Version_Control-red?style=for-the-badge&logo=git)
+
+
+---
+
+### 🌱 I’m currently learning:
+
+- Advanced JavaScript frameworks like React.
+- Core Machine Learning algorithms and data science principles.
+- Best practices for project and team management.
+
+---
+
+### 📫 How to reach me:
+
+- **LinkedIn:** [Add Your LinkedIn Profile URL Here](https://www.linkedin.com/in/sanjayKundakar/)
+- **Email:** [your.email@example.com](mailto:sanjaykundakar16@gmail.com)
