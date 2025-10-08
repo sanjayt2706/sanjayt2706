@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Personalized Message</title>
+    <title>Web & Machine Learning Developer focused on building helpful applications and effective teams.</title></title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,7 +18,7 @@
     </style>
 </head>
 <body>
-    <h1>Enter Your Name</h1>
+    <h1>Sanjay </h1>
     <input type="text" id="nameInput" placeholder="Your Name">
     <button onclick="displayMessage()">Submit</button>
     <p id="message"></p>
