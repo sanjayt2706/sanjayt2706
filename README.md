@@ -1,45 +1,62 @@
-# Hi, I'm Sanjay 👋
+# Hi, I'm Sanjay T 👋
 
-I'm a developer and student passionate about the intersection of **Web Development** and **Machine Learning**. My primary focus is on continuously expanding my technical skills while also learning the principles of effective **team management**. I am driven by the goal of building applications that are genuinely **helpful to people** and solve real-world problems.
+Computer Science & Engineering student focused on **backend development, full-stack web applications, machine learning, and practical software engineering**.
 
----
+I enjoy turning ideas into working products — from APIs and dashboards to ML-powered applications.
 
-### 🛠️ Technologies & Skills
+## What I Work With
 
-#### Web & App Development
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Flutter-blue?style=for-the-badge&logo=dart)
+**Languages:** JavaScript, Python, Java, SQL, Dart
 
-#### Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+**Frontend:** React, Vite, Tailwind CSS, HTML, CSS
 
-#### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Backend:** Node.js, Express.js, REST APIs, FastAPI, JWT authentication
 
----
+**Databases:** MongoDB, MySQL, SQLite
 
+**Machine Learning:** scikit-learn, Random Forest, XGBoost, SHAP, feature engineering
 
-### 🌱 I’m currently learning:
+**Mobile:** Android, Kotlin, Flutter
 
-- Advanced JavaScript frameworks like React.
-- Core Machine Learning algorithms and data science principles.
-- Best practices for project and team management.
+**Tools & Platforms:** Git, GitHub, VS Code, Postman, Vercel, Render
 
----
+## Featured Projects
 
-### 📫 How to reach me:
+### 🚗 Driver Behavior Analysis & Risk Prediction
+A full-stack ML system that uses smartphone sensor data to analyze driving behavior, generate trip/risk scores, and provide explainable ML insights.
 
-- **LinkedIn:** [Sanjay T](https://www.linkedin.com/in/sanjayKundakar/)
-- **Email:** [sanjaykundakar16@gmail.com](mailto:sanjaykundakar16@gmail.com)
+**Focus:** Android • FastAPI • ML • XGBoost/Random Forest • SHAP • Streamlit
+
+### 🏗️ Aarnav Structura
+A production-style business website platform with a React frontend, Express backend, admin dashboard, enquiry management, visitor analytics, content management, authentication, email notifications, and database integrations.
+
+**Focus:** React • Node.js • Express • MySQL • REST APIs • JWT • Admin Dashboard
+
+### 🔗 URL Shortener
+A backend project implementing URL shortening, persistence, and redirect handling.
+
+**Focus:** Node.js • Express.js • REST APIs • Database design
+
+### 💰 Expense Tracker
+A Flutter mobile application for recording and managing personal expenses.
+
+**Focus:** Flutter • Dart • Mobile UI
+
+## Current Learning Focus
+
+- Backend engineering and scalable API design
+- Machine learning and explainable AI
+- Cloud deployment and production practices
+- Data structures and algorithms
+- System design fundamentals
+
+## GitHub
+
+I use GitHub to document projects, experiments, learning work, and practical engineering exercises.
+
+## Connect
+
+**LinkedIn:** Add your profile URL  
+**Portfolio:** Add your portfolio URL  
+**Email:** Add your professional email
+
